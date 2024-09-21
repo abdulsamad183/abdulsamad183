@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_600_2000/0/1626753867110?e=2147483647&v=beta&t=Kf7YAuwZtyCGYLNch-Mgc5eOC-7h7uL_dnBAIgsAFRQ)(https://github.com/abdulsamad183)
+[![MasterHead](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_600_2000/0/1626753867110?e=2147483647&v=beta&t=Kf7YAuwZtyCGYLNch-Mgc5eOC-7h7uL_dnBAIgsAFRQ)](https://github.com/abdulsamad183)
 <h1 align="center">Hi There 👋, I'm Samad</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
