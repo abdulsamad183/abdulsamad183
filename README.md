@@ -24,7 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/samad20817425" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samad20817425" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shaikabdulsamad-iit9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shaikabdulsamad-iit9/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shaikabdulsamad-iit9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shaikabdulsamad-iit9/" height="30" width="40" /></a>
 <a href="https://instagram.com/abdul_samad_0410" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdul_samad_0410" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/abdulsamadshaik183/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/abdulsamadshaik183/" height="30" width="40" /></a>
 </p>
