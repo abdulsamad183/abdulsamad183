@@ -1,11 +1,11 @@
 [![MasterHead](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_600_2000/0/1626753867110?e=2147483647&v=beta&t=Kf7YAuwZtyCGYLNch-Mgc5eOC-7h7uL_dnBAIgsAFRQ)](https://github.com/abdulsamad183)
 <h1 align="center">Hi There 👋, I'm Samad</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">A passionate Machine Learning Engineer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnpqa251ODF4ZW5uZzNwaG5tYW5mbjByZ3d5bmN6OWsxOGUzaHI3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulsamad183&label=Profile%20views&color=0e75b6&style=flat" alt="abdulsamad183" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning, Deep Learning**
+- 🔭 I’m currently working on **Federated Learning, Computer vision, Time series Foundation Models**
 
 - 👯 I’m looking to collaborate on **Projects based on AIML**
 
